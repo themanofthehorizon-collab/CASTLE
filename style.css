@@ -1,0 +1,10 @@
+@font-face {font-family: 'Quicksand'; font-weight: 300; src: url('https://fonts.gstatic.com/s/quicksand/v37/6xKtdSZaM9iE8KbpRA_hK1QN.woff2') format('woff2');}
+html {display: inline-block; background-color: #014BAA; margin: 0px auto; text-align: center; font-family: 'Quicksand', sans-serif; color: #F8F3F0;}
+.wrapper {margin-top: 64px;}
+.fileselect, .fileupload {background-color: #014BAA; border: 1px solid #F8F3F0; border-radius: 5px; height: 36px; width: 164px; font-size: 18px; display: flex; justify-content: center; align-items: center; transition-duration: 0.4s;}
+.fileselect:hover, .fileupload:hover {background-color: #0056C7; box-shadow: 0 0 8px #0056C7;}
+.wrapperselect, .wrapperupload {margin-top: 14px; display: flex; justify-content: center; align-items: center;}
+.select, .submit {display: none; height: 0px;}
+.motto {margin-top: 24px; font-size: 16px;}
+.logo {margin-top: 104px; font-size: 32px;}
+.logo img {width: 104px; height: 97px;}
